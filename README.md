@@ -8,5 +8,6 @@ Now migrated to a custom engine using a new stack, but this project shows early 
 * Basic ARIMA Model
 
 Infrastructure is now deprecated, but logic and components inspired the next gen version.
-
+I have attached the performance of this strategy as an HTML file, though it still has unrefined quirks such as over leveraging which will be be addressed in the next model.
+Also need to ensure that it connects to an exchange directly rather than a broker.
 
