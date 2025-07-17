@@ -6,8 +6,11 @@ Now migrated to a custom engine using a new stack, but this project shows early 
 * SL/TP dynamics
 * Basic ML model
 * Basic ARIMA Model
+* Basic Risk Management System
 
 Infrastructure is now deprecated, but logic and components inspired the next gen version.
-I have attached the performance of this strategy as an HTML file, though it still has unrefined quirks such as over leveraging which will be be addressed in the next model.
-Also need to ensure that it connects to an exchange directly rather than a broker.
+I have attached the performance of this strategy as an HTML file, though it still has unrefined quirks such as:
+1. over leveraging which will be be addressed in the next model.
+2. Also need to ensure that it connects to an exchange directly rather than a broker.
+3. etc....
 
